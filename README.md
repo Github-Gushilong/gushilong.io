@@ -1,0 +1,2 @@
+# gushilong.io
+blog
